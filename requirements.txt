@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+# Local editable install removed — don't include '-e .'
