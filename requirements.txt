@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
 # Local editable install removed — don't include '-e .'
